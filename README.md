@@ -161,7 +161,7 @@ MBDDv2 is an expanded bridge detection benchmark built upon the original MBDD da
 
 **Dataset Links**
 - **MBDDv2**: [Google Drive / Baidu Drive / Hugging Face link here](YOUR_MBDDV2_LINK)
-- **Original MBDD**: [Dataset link here](YOUR_MBDD_LINK)
+
 
 ### GLH-Bridge
 
