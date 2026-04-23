@@ -1,8 +1,5 @@
 # BridgeWiseNet: Interference-Aware Bridge Detection in Remote Sensing Images with Vision Foundation Models
 
-<p align="center">
-  <img src="assets/teaser/framework.png" alt="BridgeWiseNet Framework" width="96%">
-</p>
 
 <p align="center">
   <a href="https://github.com/chengyi11/BridgeWiseNet">
