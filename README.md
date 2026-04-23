@@ -32,7 +32,7 @@
 - **2026-04**: README, method overview, and benchmark summary released.
 - **Coming soon**: training code, evaluation scripts, pretrained checkpoints, and dataset instructions.
 
-> You can replace the dates above with your actual release dates later.
+
 
 ---
 
@@ -177,34 +177,3 @@ GLH-Bridge is a large-scale benchmark for bridge detection in very-high-resoluti
 > In this repository, horizontal boxes are used for detector training and primary benchmarking, while rotated annotations are used for selected bridge-aligned geometric analyses.
 
 ---
-
-## Repository Structure
-
-```bash
-BridgeWiseNet/
-├── README.md
-├── requirements.txt
-├── configs/
-│   ├── mbddv2/
-│   └── glh_bridge/
-├── datasets/
-│   ├── MBDDv2/
-│   └── GLH-Bridge/
-├── assets/
-│   └── teaser/
-│       ├── framework.png
-│       ├── phase_diagram.png
-│       ├── wss_demo.png
-│       └── prism_demo.png
-├── models/
-│   ├── backbone/
-│   ├── detector/
-│   ├── wss/
-│   └── prism/
-├── tools/
-│   ├── train.py
-│   ├── test.py
-│   ├── inference.py
-│   └── eval.py
-├── checkpoints/
-└── outputs/
