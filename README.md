@@ -67,7 +67,7 @@ In addition, we build **MBDDv2**, an expanded bridge detection benchmark with br
 ## Method
 
 <p align="center">
-  <img src="BridgeWise.pdf" alt="Framework" width="96%">
+  <img src="ScreenShot_2026-04-23_170214_578.png" alt="Framework" width="96%">
 </p>
 
 ### 1. WSS: Wavelet Subband Suppression
