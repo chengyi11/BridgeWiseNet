@@ -67,7 +67,7 @@ In addition, we build **MBDDv2**, an expanded bridge detection benchmark with br
 ## Method
 
 <p align="center">
-  <img src="ScreenShot_2026-04-23_170214_578.png" alt="Framework" width="96%">
+  <img src="asset/BridgeWise.png" alt="Framework" width="96%">
 </p>
 
 ### 1. WSS: Wavelet Subband Suppression
@@ -130,7 +130,7 @@ BridgeWiseNet is not a loose combination of wavelet processing and distillation.
 ### Interference phase diagram
 
 <p align="center">
-  <img src="assets/teaser/phase_diagram.png" alt="Interference Phase Diagram" width="78%">
+  <img src="asset/phase.png" alt="Interference Phase Diagram" width="78%">
 </p>
 
 Bridge detection failures under frozen VFMs are not randomly distributed. They concentrate in two mechanism-distinct regimes:
@@ -139,7 +139,7 @@ texture-dominant interference and contrast-dominant interference.
 ### WSS visualization
 
 <p align="center">
-  <img src="assets/teaser/wss_demo.png" alt="WSS Visualization" width="78%">
+  <img src="asset/Wss.png" alt="WSS Visualization" width="78%">
 </p>
 
 WSS suppresses background-dominated HF competition while preserving bridge-relevant structural cues.
@@ -147,7 +147,7 @@ WSS suppresses background-dominated HF competition while preserving bridge-relev
 ### PRISM visualization
 
 <p align="center">
-  <img src="assets/teaser/prism_demo.png" alt="PRISM Visualization" width="78%">
+  <img src="asset/prism.png" alt="PRISM Visualization" width="78%">
 </p>
 
 PRISM improves span completeness and reduces endpoint mirage under strong contextual boundaries.
