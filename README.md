@@ -26,11 +26,6 @@
 
 ---
 
-## News / Updates
-
-- **2026-04**: Repository initialized.
-- **2026-04**: README, method overview, and benchmark summary released.
-- **Coming soon**: training code, evaluation scripts, pretrained checkpoints, and dataset instructions.
 
 
 
